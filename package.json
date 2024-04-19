@@ -14,8 +14,10 @@
   "author": "Tushar Rawat",
   "license": "ISC",
   "dependencies": {
+    "@types/mongoose": "^5.11.97",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "mongoose": "^8.3.2",
     "tsc-watch": "^6.2.0"
   }
 }
